@@ -1,0 +1,8 @@
+name: SpeedBread
+Version: 1.0
+author: Coochieman1412
+main: me.josh.bread.BreadEffect.Main
+api-version: 1.16.5
+giveSpeedbread:
+ description: Gives our Custom item to the player.
+ usage: /giveSpeedbread
